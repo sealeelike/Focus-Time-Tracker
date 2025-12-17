@@ -1,5 +1,5 @@
 It is now reading week for the final exam. I have many stuff to review.
-While sitting in the library, I sometimes suddenly find myself spacing out.
+While sitting in the library, I sometimes suddenly find myself spacing out. Time crawls when I sit in the library, yet flies when I stand in the shower, reflecting on the day.
 I am thinking about making a monitor that stands by all the day (just like I sitting here all the day) and monitors the user.
 
 It consist of two component, a camera (It might include multiple functions, such as eye tracking) and a movement analysis model.
